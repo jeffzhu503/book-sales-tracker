@@ -2,6 +2,8 @@
 Book Sales Tracker - A system to track total book sales and display top sellers.
 """
 
+__version__ = "0.1.0"
+
 import json
 from pathlib import Path
 from typing import Optional
